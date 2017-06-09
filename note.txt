@@ -1,0 +1,14 @@
+
+GIT Command note:
+echo "# Python_DataScience" >> README.md
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git remote add origin https://github.com/EnzoCalogero/Python_DataScience.git
+  git push -u origin master
+  
+git add ./course1/*.*
+git commit -m "09_06_2017"
+git status
+git push -u origin master
+
