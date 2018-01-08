@@ -8,6 +8,7 @@ git add *.*
 git add course1/*.*
 git add course2/*.*
 git add course3/*.*
+git add course4/*.*
 git commit -m $(date +%d-%m-%y)
 git status
 git push -u origin master
